@@ -10,3 +10,5 @@ Il contient en particulier :
 -Eff2.csv et plage.csv. Ce sont deux autres fichiers intermédiaires qui ont été faits à la main en se basant sur le jeu de données et les calculs théoriques faits sur R.
 Ils sont notamment utilisées pour tracer les graphiques. 
 
+Le code est évidemment utilisable, il faut télécharger les trois .csv et modifier si besoin le chemin d'accès aux dataset , qui se trouve à la ligne 6
+
